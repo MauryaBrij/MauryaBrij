@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Senior Software Engineer - Data platform at HSBC.<br>I am currently learning spark optimizations with Dataproc on GCP.<br>Ask me about anything related to Data Engineerng field.<br>Fun fact about me, i am working on new visualizer project.
+I am Senior Software Engineer - Data platform at HSBC.<br>I am currently learning spark optimizations with Dataproc on GCP.<br>Ask me about anything related to Data Engineerng field.<br>New from me, I am working on new visualizer project.
 
 
 ## 🌐 Socials:
